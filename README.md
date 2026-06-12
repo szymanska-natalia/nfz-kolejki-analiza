@@ -89,13 +89,13 @@ Interaktywny dashboard w Power BI, dwie strony połączone wspólnym filtrem spe
 
 Wskaźniki KPI (średni czas oczekiwania, liczba specjalistów na 10 tys., liczba placówek) oraz dwa wykresy punktowe pokazujące zależność (a właściwie jej brak) między liczbą specjalistów a czasem oczekiwania — dla wybranej specjalizacji i dla wszystkich czterech naraz.
 
-![Strona 1 — Przegląd](images/przeglad.png)
+![Strona 1 — Przegląd](przeglad.png)
 
 **Strona 2 — Szczegóły**
 
 Trend liczby specjalistów na przestrzeni lat 2015–2025 oraz rankingi województw: według czasu oczekiwania i według liczby placówek.
 
-![Strona 2 — Szczegóły](images/szczegoly.png)
+![Strona 2 — Szczegóły](szczegoly.png)
 
 ---
 
