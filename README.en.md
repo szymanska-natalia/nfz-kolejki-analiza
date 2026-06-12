@@ -91,13 +91,13 @@ An interactive Power BI dashboard, two pages linked by a shared specialty filter
 
 KPIs (average waiting time, specialists per 10k, number of facilities) and two scatter plots showing the relationship (or rather the lack of it) between the number of specialists and waiting time — for the selected specialty and for all four at once.
 
-![Page 1 — Overview](images/przeglad.png)
+![Page 1 — Overview](przeglad.png)
 
 **Page 2 — Details**
 
 The specialist trend across 2015–2025, plus voivodeship rankings: by waiting time and by number of facilities.
 
-![Page 2 — Details](images/szczegoly.png)
+![Page 2 — Details](szczegoly.png)
 
 ---
 
